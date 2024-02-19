@@ -1,5 +1,8 @@
 ### I'm Jordana 👋
 
+🎓 Third period of Software Engineering
+👩🏻‍💻 I currently work with Front-end
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanaalvesc1)](https://github.com/anuraghazr/github-readme-stats)
 
 <div style="display: inline_block"><br>
