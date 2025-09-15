@@ -1,7 +1,6 @@
 ### I'm Jordana 👋
 
-🎓 Third period of Software Engineering <br>
-👩🏻‍💻 I currently working on Front-end and Back-end
+👩🏻‍💻 I currently working on suporte
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanaalvesc1)](https://github.com/jordanaalvesc1/github-readme-stats)
 
